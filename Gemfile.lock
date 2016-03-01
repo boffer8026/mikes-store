@@ -65,9 +65,8 @@ GEM
       activerecord (>= 3.0)
     addressable (2.4.0)
     arel (6.0.3)
-    autoprefixer-rails (6.3.3)
+    autoprefixer-rails (6.3.3.1)
       execjs
-      json
     awesome_nested_set (3.0.3)
       activerecord (>= 4.0.0, < 5)
     bcrypt (3.1.10)
@@ -144,7 +143,7 @@ GEM
       nokogiri (>= 1.5.9)
     mail (2.6.3)
       mime-types (>= 1.16, < 3)
-    mime-types (2.99)
+    mime-types (2.99.1)
     mini_portile2 (2.0.0)
     minitest (5.8.4)
     monetize (1.4.0)
